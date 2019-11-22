@@ -7,7 +7,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -19,7 +19,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -31,7 +31,7 @@ Projects:
     git-path: /
     target-file: Dockerfile.centos
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -43,7 +43,7 @@ Projects:
     git-path: /
     target-file: Dockerfile.centos
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -55,7 +55,7 @@ Projects:
     git-path: /golang/1.8/
     target-file: Dockerfile
     desired-tag: 1.8
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: dharmit/base:latest
 
@@ -67,7 +67,7 @@ Projects:
     git-path: /python/2/
     target-file: Dockerfile
     desired-tag: 2.7
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -79,7 +79,7 @@ Projects:
     git-path: /python/3/
     target-file: Dockerfile
     desired-tag: 3.5
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -91,7 +91,7 @@ Projects:
     git-path: /base
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -103,7 +103,7 @@ Projects:
     git-path: /dotnet20/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: dharmit/base:latest
 
@@ -115,7 +115,7 @@ Projects:
     git-path: /beanstalkd
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     depends-on: dharmit/base:latest
     build-context: ./
 
@@ -127,7 +127,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     depends-on: centos/centos:latest
     build-context: ./
 

@@ -7,7 +7,7 @@ Projects:
     git-path: che-launcher
     target-file: Dockerfile.centos
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -20,7 +20,7 @@ Projects:
 #     git-path: /
 #     target-file: Dockerfile.centos
 #     desired-tag: latest
-#     notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
 #     build-context: ./
 #     depends-on: null
 

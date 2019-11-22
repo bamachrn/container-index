@@ -7,6 +7,6 @@ Projects:
     git-path: /
     target-file: Dockerfile.centos
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: dharmit/golang:1.8

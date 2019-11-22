@@ -19,7 +19,7 @@ Projects:
     git-path: Django/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -31,7 +31,7 @@ Projects:
     git-path: etherpad/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -43,7 +43,7 @@ Projects:
     git-path: firefox/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -55,7 +55,7 @@ Projects:
     git-path: freeipa/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -67,7 +67,7 @@ Projects:
     git-path: httpd/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -79,7 +79,7 @@ Projects:
     git-path: mariadb/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -91,7 +91,7 @@ Projects:
     git-path: memcached/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -103,7 +103,7 @@ Projects:
     git-path: mongodb/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -115,7 +115,7 @@ Projects:
     git-path: owncloud/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -127,7 +127,7 @@ Projects:
     git-path: python/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -139,7 +139,7 @@ Projects:
     git-path: qpid/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -151,7 +151,7 @@ Projects:
     git-path: redis/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -163,7 +163,7 @@ Projects:
     git-path: registry-v2/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -175,7 +175,7 @@ Projects:
     git-path: registry/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -187,7 +187,7 @@ Projects:
     git-path: ssh/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -199,7 +199,7 @@ Projects:
     git-path: systemd/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -211,7 +211,7 @@ Projects:
     git-path: tools
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -223,7 +223,7 @@ Projects:
     git-path: wildfly/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
   
@@ -235,7 +235,7 @@ Projects:
     git-path: wordpress/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -271,7 +271,7 @@ Projects:
     git-path: bind/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -283,7 +283,7 @@ Projects:
     git-path: kubernetes/master
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -295,7 +295,7 @@ Projects:
     git-path: kubernetes/node
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -307,7 +307,7 @@ Projects:
     git-path: kubernetes/apiserver
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-master:latest
 
@@ -319,7 +319,7 @@ Projects:
     git-path: kubernetes/controller-manager
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-master:latest
 
@@ -331,7 +331,7 @@ Projects:
     git-path: kubernetes/kubelet
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-node:latest
 
@@ -343,7 +343,7 @@ Projects:
     git-path: kubernetes/proxy
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-node:latest
 
@@ -355,7 +355,7 @@ Projects:
     git-path: kubernetes/scheduler
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-master:latest
 
@@ -369,7 +369,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: centos7
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: null
 
@@ -381,7 +381,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: centos6
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: null
 
@@ -395,7 +395,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: 7.2.1511
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: null
 
@@ -409,7 +409,7 @@ Projects:
     git-path: rabbitmq/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -421,7 +421,7 @@ Projects:
     git-path: pgweb/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -433,7 +433,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: 7.3.1611
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: null
 
@@ -445,7 +445,7 @@ Projects:
     git-path: elasticsearch/centos7
     target-file: Dockerfile.24
     desired-tag: 2.4.0
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -457,7 +457,7 @@ Projects:
     git-path: cgit/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -469,7 +469,7 @@ Projects:
     git-path: moodle/centos7
     target-file: Dockerfile
     desired-tag: 3.1
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -481,7 +481,7 @@ Projects:
     git-path: phppgadmin/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:7
 
@@ -493,7 +493,7 @@ Projects:
     git-branch: master
     target-file: Dockerfile
     desired-tag: 8.17
-    notify-email: container-status-report@centos.org
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -505,7 +505,7 @@ Projects:
     git-branch: master
     target-file: Dockerfile
     desired-tag: 8.18
-    notify-email: container-status-report@centos.org
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -517,7 +517,7 @@ Projects:
     git-path: kubernetes-sig/master
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -529,7 +529,7 @@ Projects:
     git-path: kubernetes-sig/node
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -541,7 +541,7 @@ Projects:
     git-path: kubernetes-sig/apiserver
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-sig-master:latest
 
@@ -553,7 +553,7 @@ Projects:
     git-path: kubernetes-sig/controller-manager
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-sig-master:latest
 
@@ -565,7 +565,7 @@ Projects:
     git-path: kubernetes-sig/kubelet
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-sig-node:latest
 
@@ -577,7 +577,7 @@ Projects:
     git-path: kubernetes-sig/proxy
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-sig-node:latest
 
@@ -589,7 +589,7 @@ Projects:
     git-path: kubernetes-sig/scheduler
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: jbrooks@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/kubernetes-sig-master:latest
 
@@ -601,7 +601,7 @@ Projects:
     git-path: couchdb/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -613,7 +613,7 @@ Projects:
     git-path: earthquake/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -625,7 +625,7 @@ Projects:
     git-path: golang/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -637,7 +637,7 @@ Projects:
     git-path: lighttpd/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -649,7 +649,7 @@ Projects:
     git-path: nginx/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -661,7 +661,7 @@ Projects:
     git-path: powershell/centos7
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: shahdharmit@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -674,7 +674,7 @@ Projects:
     git-path: core/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -686,7 +686,7 @@ Projects:
     git-path: 4-toolchain/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -698,7 +698,7 @@ Projects:
     git-path: 4-perftools/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -710,7 +710,7 @@ Projects:
     git-path: 6-toolchain/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -722,7 +722,7 @@ Projects:
     git-path: 6-perftools/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -734,7 +734,7 @@ Projects:
     git-path: 7-toolchain/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -746,7 +746,7 @@ Projects:
     git-path: 7-perftools/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -758,7 +758,7 @@ Projects:
     git-path: 3.2/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -770,7 +770,7 @@ Projects:
     git-path: 9.4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     prebuild-script: hooks/pre_build_distgen
     prebuild-context: /
@@ -784,7 +784,7 @@ Projects:
     git-path: 9.5/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     prebuild-script: hooks/pre_build_distgen
     prebuild-context: /
@@ -798,7 +798,7 @@ Projects:
     git-path: 9.6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     prebuild-script: hooks/pre_build_distgen
     prebuild-context: /
@@ -812,7 +812,7 @@ Projects:
     git-path: 4.1/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -824,7 +824,7 @@ Projects:
     git-path: 4.2/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -836,7 +836,7 @@ Projects:
     git-path: 5.0/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -848,7 +848,7 @@ Projects:
     git-path: base/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -860,7 +860,7 @@ Projects:
     git-path: 2.6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -872,7 +872,7 @@ Projects:
     git-path: 3.2/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -884,7 +884,7 @@ Projects:
     git-path: 3.4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -896,7 +896,7 @@ Projects:
     git-path: 10.0/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     depends-on: centos/s2i-core-centos7:latest
 
@@ -908,7 +908,7 @@ Projects:
     git-path: 10.1/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     depends-on: centos/s2i-core-centos7:latest
 
@@ -920,7 +920,7 @@ Projects:
     git-path: 10.2/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     depends-on: centos/s2i-core-centos7:latest
 
@@ -932,7 +932,7 @@ Projects:
     git-path: 5.6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     depends-on: centos/s2i-core-centos7:latest
 
@@ -944,7 +944,7 @@ Projects:
     git-path: 5.7/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     depends-on: centos/s2i-core-centos7:latest
 
@@ -956,7 +956,7 @@ Projects:
     git-path: 1.8/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -968,7 +968,7 @@ Projects:
     git-path: 1.10/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -980,7 +980,7 @@ Projects:
     git-path: 1.12/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -992,7 +992,7 @@ Projects:
     git-path: 2.4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-core-centos7:latest
 
@@ -1004,7 +1004,7 @@ Projects:
     git-path: 5.6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1016,7 +1016,7 @@ Projects:
     git-path: 7.0/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1029,7 +1029,7 @@ Projects:
 #    git-path: 7.1/
 #    target-file: Dockerfile
 #    desired-tag: latest
-#    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
 #    build-context: ./
 #    depends-on: centos/s2i-base-centos7:latest
 
@@ -1041,7 +1041,7 @@ Projects:
     git-path: 2.7/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1053,7 +1053,7 @@ Projects:
     git-path: 3.4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1065,7 +1065,7 @@ Projects:
     git-path: 3.5/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1077,7 +1077,7 @@ Projects:
     git-path: 3.6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1089,7 +1089,7 @@ Projects:
     git-path: 5.20/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1101,7 +1101,7 @@ Projects:
     git-path: 5.24/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1113,7 +1113,7 @@ Projects:
     git-path: 2.2/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1125,7 +1125,7 @@ Projects:
     git-path: 2.3/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1137,7 +1137,7 @@ Projects:
     git-path: 2.4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1149,7 +1149,7 @@ Projects:
     git-path: 4.0/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1161,7 +1161,7 @@ Projects:
     git-path: 4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     prebuild-script: hooks/pre_build_distgen
     prebuild-context: /
@@ -1175,7 +1175,7 @@ Projects:
     git-path: 4/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1187,7 +1187,7 @@ Projects:
     git-path: 6/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1199,7 +1199,7 @@ Projects:
     git-path: 8/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/s2i-base-centos7:latest
 
@@ -1211,7 +1211,7 @@ Projects:
     git-branch: master
     target-file: Dockerfile
     desired-tag: 8.22
-    notify-email: container-status-report@centos.org
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -1223,7 +1223,7 @@ Projects:
     git-branch: master
     target-file: Dockerfile
     desired-tag: 8.22
-    notify-email: container-status-report@centos.org
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:latest
 
@@ -1235,7 +1235,7 @@ Projects:
     git-path: 5/
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: hhorak@redhat.com
+    notify-email: bamachrn@gmail.com
     build-context: ../
     prebuild-script: hooks/pre_build_distgen
     prebuild-context: /
@@ -1254,7 +1254,7 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: latest
-    notify-email: moahmed@redhat.com
+    notify-email: bamachrn@gmail.com
     prebuild-script: cccp-prebuild.sh
     prebuild-context: /
     build-context: ./
@@ -1270,7 +1270,7 @@ Projects:
     git-path: docker
     target-file: Dockerfile
     desired-tag: 6
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: null
 
@@ -1282,6 +1282,6 @@ Projects:
     git-path: moodle/centos7
     target-file: Dockerfile.3.5
     desired-tag: 3.5
-    notify-email: mohammed.zee1000@gmail.com
+    notify-email: bamachrn@gmail.com
     build-context: ./
     depends-on: centos/centos:7
