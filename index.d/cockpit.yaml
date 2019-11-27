@@ -22,7 +22,7 @@ Projects:
 #    git-path: containers/kubernetes
 #    target-file: Dockerfile.centos7
 #    desired-tag: latest
-    notify-email: bamachrn@gmail.com
+#    notify-email: bamachrn@gmail.com
 #    build-context: ./
 #    depends-on: centos/centos:latest
 

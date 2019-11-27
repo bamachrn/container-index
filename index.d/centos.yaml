@@ -1029,7 +1029,7 @@ Projects:
 #    git-path: 7.1/
 #    target-file: Dockerfile
 #    desired-tag: latest
-    notify-email: bamachrn@gmail.com
+#    notify-email: bamachrn@gmail.com
 #    build-context: ./
 #    depends-on: centos/s2i-base-centos7:latest
 

@@ -55,7 +55,7 @@ Projects:
         #    git-path: server-ha-postgres
         #    target-file: Dockerfile
         #    desired-tag: latest
-    notify-email: bamachrn@gmail.com
+        #    notify-email: bamachrn@gmail.com
         #    build-context: ./
         #    depends-on: 
         #      - centos/centos:latest

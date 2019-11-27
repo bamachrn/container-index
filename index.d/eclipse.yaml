@@ -20,7 +20,7 @@ Projects:
 #     git-path: /
 #     target-file: Dockerfile.centos
 #     desired-tag: latest
-    notify-email: bamachrn@gmail.com
+#    notify-email: bamachrn@gmail.com
 #     build-context: ./
 #     depends-on: null
 
