@@ -2,8 +2,8 @@ Projects:
   - id: 1
     app-id: pipeline-images
     job-id: ccp-openshift-slave
-    git-url: https://github.com/CentOS/container-pipeline-service
-    git-branch: openshift
+    git-url: https://github.com/bamachrn/container-pipeline-service
+    git-branch: node-selector-for-pods
     git-path: /
     target-file: Dockerfiles/ccp-openshift-slave/Dockerfile
     desired-tag: latest
